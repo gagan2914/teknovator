@@ -282,7 +282,7 @@ textarea:focus {
 
 #slider .caption span {
 	padding: 0 10px;
-	background-color: #01b1d7;
+	background-color: black;
 	color: #fff;
 }
 
@@ -292,7 +292,7 @@ textarea:focus {
 	font-size: 24px;
 	font-style: italic;
 	margin-top: 30px;
-	color: #01b1d7;
+	color: black;
 }
 
 #slider .caption button {
